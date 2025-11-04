@@ -2,7 +2,7 @@ $primary: #a331dd;
 $secondary: #3e1253;
 $clear: rgb(247, 247, 247);
 
-body{
+body {
     margin-top: 140px;
     font-family: "Roboto Flex", Arial;
 }
@@ -11,7 +11,7 @@ body{
     background: $clear !important;
     box-shadow: 0 0 10px $secondary !important;
     width: 100%;
-    position:fixed;
+    position: fixed;
     top: 0;
 
     & .navbar-brand {
@@ -25,9 +25,10 @@ body{
     }
 
     & .navbar-toggler {
-       
+
         border-color: #8a5ac8;
-        &:focus{
+
+        &:focus {
             box-shadow: 0 0 0 .25rem rgba(111, 66, 193, 0.5);
         }
     }
@@ -38,30 +39,44 @@ body{
 
 }
 
-.headline{
-    h1{
+.headline {
+    h1 {
         font-weight: 600;
         font-size: 25px;
     }
 }
 
-.apresentacao{
+.apresentacao {
     width: 98%;
     margin-bottom: 20px;
-    img{
-        width:100%;
+
+    img {
+        width: 100%;
         border-radius: 15px;
         box-shadow: 0 0 10px #383838;
     }
 }
 
-.footer{
+.titulo {
+    text-align: center;
+    &-letra{
+        font-weight: 600;
+        font-size:25px;
+    }
+}
+
+.video{
+    margin:30px 0;
+}
+
+.footer {
     background: $primary;
     color: #fff;
     text-align: center;
     padding: 20px;
     box-sizing: border-box;
-    a{
+
+    a {
         text-decoration: none;
         color: #fff;
         font-size: 30px;
