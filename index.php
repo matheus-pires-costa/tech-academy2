@@ -7,6 +7,8 @@
     <title>CN Estetica</title>
 
     <base href="http://localhost/projeto-facul/tech-academy2/">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap"
@@ -66,11 +68,16 @@
 
     <footer class="footer" class="container">
         <p>
-            <a href="https://www.instagram.com/chayane.esteticista/"><img src="imagens/instagram.png"
-                    alt="Logo Instagram" title="Logo Instagram"></a>
+            <a href="https://www.instagram.com/chayane.esteticista/">
+                <i class="bi bi-instagram"></i>
+            </a>
         </p>
         <p>
-            Todos os Direitos reservados - CN Estetica - 2025 <!-- Colocar um JS aqui em 2025 -->
+            &copy; <span id="copyright-year"></span> Todos os Direitos reservados.
+
+        </p>
+        <p>
+            CN Estetica
         </p>
         <p>
             Desenvolvido por Matheus Pires
@@ -79,6 +86,14 @@
 
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/fslightbox.js"></script>
+    <script>
+        const anoElemento = document.getElementById('copyright-year');
+        const anoAtual = new Date().getFullYear();
+
+        if (anoElemento) {
+            anoElemento.textContent = anoAtual;
+        }
+    </script>
 
 </body>
 
