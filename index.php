@@ -73,6 +73,9 @@
             </a>
         </p>
         <p>
+            Telefone: +55 44 9734-5042
+        </p>
+        <p>
             &copy; <span id="copyright-year"></span> Todos os Direitos reservados.
 
         </p>
