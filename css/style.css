@@ -1,0 +1,41 @@
+body {
+  margin-top: 140px;
+  font-family: "Roboto Flex", Arial;
+}
+
+.navbar {
+  background: #f7f7f7 !important;
+  box-shadow: 0 0 10px #2e0d3f !important;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+.navbar .navbar-brand img {
+  width: 100px;
+}
+.navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='purple' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.navbar .navbar-toggler {
+  border-color: #8a5ac8;
+}
+.navbar .navbar-toggler:focus {
+  box-shadow: 0 0 0 0.25rem rgba(111, 66, 193, 0.5);
+}
+.navbar .nav-link {
+  color: #a331dd !important;
+}
+
+.footer {
+  background: #a331dd;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.footer a {
+  text-decoration: none;
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
