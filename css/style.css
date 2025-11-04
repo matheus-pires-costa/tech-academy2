@@ -5,7 +5,7 @@ body {
 
 .navbar {
   background: #f7f7f7 !important;
-  box-shadow: 0 0 10px #2e0d3f !important;
+  box-shadow: 0 0 10px #3e1253 !important;
   width: 100%;
   position: fixed;
   top: 0;
@@ -24,6 +24,19 @@ body {
 }
 .navbar .nav-link {
   color: #a331dd !important;
+}
+
+.headline h1 {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.apresentacao {
+  width: 98%;
+  margin-bottom: 20px;
+}
+.apresentacao img {
+  width: 100%;
 }
 
 .footer {

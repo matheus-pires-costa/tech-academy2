@@ -68,7 +68,7 @@
 
     <footer class="footer" class="container">
         <p>
-            <a href="https://www.instagram.com/chayane.esteticista/">
+            <a href="https://www.instagram.com/chayane.esteticista/" title="instagram" target="_blank">
                 <i class="bi bi-instagram"></i>
             </a>
         </p>
