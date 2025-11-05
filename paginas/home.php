@@ -88,10 +88,4 @@
 
     </div>
 
-    <div class="titulo" class="text-center">
-        <h2 class="titulo-letra">
-            Agende já sua Avaliação!
-        </h2>
-    </div>
-
 </div>
