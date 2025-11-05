@@ -25,6 +25,7 @@ body {
 }
 .navbar .nav-link {
   color: #a331dd !important;
+  text-align: center;
 }
 
 .headline h1 {
@@ -67,6 +68,50 @@ body {
 
 #carouselProvaSocial {
   margin-bottom: 3rem;
+  border-radius: 15px;
+}
+#carouselProvaSocial img {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 0 20px #383838;
+}
+
+@keyframes pulo-suave {
+  0%,
+    100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+.btn-whatsapp-flutuante {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  background-color: #25d366;
+  color: #fff;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  animation: pulo-suave 2s ease-in-out infinite;
+}
+.btn-whatsapp-flutuante:hover {
+  background-color: #128c7e;
+  color: #fff;
+  transform: scale(1.1);
+  animation: none;
+  transform: scale(1.1);
+  background-color: #128c7e;
+  color: #fff;
 }
 
 .footer {
@@ -80,6 +125,14 @@ body {
   text-decoration: none;
   color: #fff;
   font-size: 30px;
+}
+
+@media (min-width: 480px) {
+  .navbar-nav {
+    float: right;
+    padding: 20px !important;
+    font-size: 15px !important;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

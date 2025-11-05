@@ -90,7 +90,7 @@
 
     <div class="titulo" class="text-center">
         <h2 class="titulo-letra">
-            Agende já sua Avaliação! <i class="bi bi-arrow-right ms2"></i>
+            Agende já sua Avaliação!
         </h2>
     </div>
 
