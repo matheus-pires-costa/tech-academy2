@@ -65,6 +65,9 @@
         ?>
     </main>
 
+    <a href="https://bit.ly/4biyKWU" class="btn-whatsapp-flutuante" target="_blank" id="btnWhatsapp">
+        <i class="bi bi-whatsapp"></i>
+    </a>
 
     <footer class="footer" class="container">
         <p>

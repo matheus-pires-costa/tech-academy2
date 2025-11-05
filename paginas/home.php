@@ -31,6 +31,67 @@
 
     </div>
 
-</div>
+    <div class="text-center my-4">
+        <a href="sobre" class="btn btn-roxo btn-lg fw-bold" role="button" class="btn-roxo">
+            Saiba Mais
+            <i class="bi bi-search ms-2"></i>
+        </a>
+    </div>
+
+    <div class="titulo" class="text-center">
+        <h2 class="titulo-letra">
+            Resultados Reais!
+        </h2>
+    </div>
+
+    <div id="carouselProvaSocial" class="carousel slide" data-bs-ride="carousel">
+
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselProvaSocial" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselProvaSocial" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselProvaSocial" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+
+        <div class="carousel-inner">
+
+            <div class="carousel-item active" data-bs-interval="3000">
+                <a data-fslightbox="prova-social" href="imagens/provasocial2.png">
+                    <img src="imagens/provasocial2.png" class="d-block w-100" alt="Antes e depois 1">
+                </a>
+            </div>
+
+            <div class="carousel-item" data-bs-interval="3000">
+                <a data-fslightbox="prova-social" href="imagens/provasocial1.png">
+                    <img src="imagens/provasocial1.png" class="d-block w-100" alt="Antes e depois 2">
+                </a>
+            </div>
+
+            <div class="carousel-item" data-bs-interval="3000">
+                <a data-fslightbox="prova-social" href="imagens/provasocial3.png">
+                    <img src="imagens/provasocial3.png" class="d-block w-100" alt="Antes e depois 3">
+                </a>
+            </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselProvaSocial" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselProvaSocial" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Próximo</span>
+        </button>
+
+    </div>
+
+    <div class="titulo" class="text-center">
+        <h2 class="titulo-letra">
+            Agende já sua Avaliação! <i class="bi bi-arrow-right ms2"></i>
+        </h2>
+    </div>
 
 </div>

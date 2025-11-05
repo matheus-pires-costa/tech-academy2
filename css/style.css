@@ -9,6 +9,7 @@ body {
   width: 100%;
   position: fixed;
   top: 0;
+  z-index: 999;
 }
 .navbar .navbar-brand img {
   width: 100px;
@@ -51,6 +52,21 @@ body {
 
 .video {
   margin: 30px 0;
+}
+
+.btn-roxo {
+  background-color: #a331dd !important;
+  border-color: #a331dd !important;
+  color: #FFFFFF !important;
+}
+.btn-roxo:hover {
+  background-color: #8a29bc !important;
+  border-color: #8a29bc !important;
+  color: #FFFFFF !important;
+}
+
+#carouselProvaSocial {
+  margin-bottom: 3rem;
 }
 
 .footer {
