@@ -1,8 +1,7 @@
 <div class="container">
     <div class="headline">
-        <h1 class="text-center">Pele <span style="color:rgb(255, 204, 0) ">Radiante</span> e Corpo <span
-                style="color:rgb(255, 204, 0) ">Renovado</span>. Comece Sua Rotina de Cuidado, <span
-                style="color:rgb(255, 204, 0) ">Agende Já !</span></h1>
+        <h1 class="text-center">Adeus, Imperfeições. Sua <span style="color:rgb(255, 204, 0) ">Pele Impecável</span>
+            está a  <span style="color:rgb(255, 204, 0) ">Um Clique.</span> Agende!</h1>
     </div>
 
     <div class="apresentacao">
@@ -25,7 +24,7 @@
         </h2>
     </div>
     <div class="video">
-        <video src="caminho/para/seu/video.mp4" controls class="w-100">
+        <video src="videos/videoteste.mov" controls class="w-100">
             Seu navegador não suporta a tag de vídeo.
         </video>
 
