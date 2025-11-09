@@ -112,7 +112,7 @@
 
     <script src="js/script.js"></script>
     <script src="js/servicos.js"></script>
-
+    <script src="js/validacao.js"></script>
 </body>
 
 </html>
