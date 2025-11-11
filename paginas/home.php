@@ -1,11 +1,11 @@
 <div class="container">
     <div class="headline">
         <h1 class="text-center">Adeus, Imperfeições. Sua <span style="color:rgb(255, 204, 0) ">Pele Impecável</span>
-            está a  <span style="color:rgb(255, 204, 0) ">Um Clique.</span> Agende!</h1>
+            está a  <span style="color:rgb(255, 204, 0) ">Um Clique.</span> Agende já!</h1>
     </div>
 
     <div class="apresentacao">
-        <img src="imagens/imagem1.jpeg" alt="Apresentaçao de Serviços" title="Apresentaçao de Serviços">
+        <img src="imagens/servicos-geral.png" alt="Apresentaçao de Serviços" title="Apresentaçao de Serviços">
     </div>
 
     <div class="text-center my-4">

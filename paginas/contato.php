@@ -19,7 +19,7 @@
 
                 <div class="col-md-6">
                     <label for="email" class="form-label">E-mail</label>
-                    <input type="email" class="form-control" id="email" required>
+                    <input type="email" class="form-control" id="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}">
                     <div class="invalid-feedback">
                         Por favor, digite um e-mail válido.
                     </div>
@@ -27,7 +27,7 @@
 
                 <div class="col-md-6">
                     <label for="whatsapp" class="form-label">WhatsApp (com DDD)</label>
-                    <input type="tel" class="form-control" id="whatsapp" placeholder="(XX) XXXXX-XXXX" required>
+                    <input type="tel" class="form-control" id="whatsapp" placeholder="(XX) XXXXX-XXXX" required pattern="[0-9]{10,11}">
                     <div class="invalid-feedback">
                         Por favor, digite seu número de WhatsApp.
                     </div>
