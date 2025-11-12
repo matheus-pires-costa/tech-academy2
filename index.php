@@ -22,7 +22,8 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="home"><img src="imagens/logocn.png" alt="logo-home" title="logo home" data-aos="fade-right"></a>
+            <a class="navbar-brand" href="home"><img src="imagens/logocn.png" alt="logo-home" title="logo home"
+                    data-aos="fade-right"></a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-aos="fade-left"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -43,6 +44,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link fs-5" href="contato">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5" href="resultados">Resultados</a>
                     </li>
                 </ul>
             </div>
