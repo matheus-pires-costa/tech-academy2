@@ -6,5 +6,8 @@ Também é feito o uso de JS para a lógica do site e validação do formulário
 https://cnestetica.infinityfreeapp.com//home
 
 ## Descrição Do Site e da Persona
-O comércio escolhido se trata de uma clínica de estética onde a persona são pessoas que buscam se sentirem melhores com sua aparência, terem autoestima,
+O comércio escolhido se trata de uma clínica de estética onde a persona são mulheres de 20 a 45 anos, conectadas e vaidosas, que buscam no celular soluções visuais e práticas para melhorar a pele e o bem-estar.
+Elas decidem a compra baseadas em provas sociais de "antes e depois" e priorizam a agilidade do agendamento direto via WhatsApp para elevar sua autoestima.
+Elas buscam se sentirem melhores com sua aparência, terem autoestima,
 Serem mais confiantes de si mesma, sejam elas pessoas que já fizeram tratamento estético antes ou não.
+
