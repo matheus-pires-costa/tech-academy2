@@ -5,7 +5,7 @@ Também é feito o uso de JS para a lógica do site e validação do formulário
 ## Link do site:
 https://cnestetica.infinityfreeapp.com//home
 
-##Link do GitHub:
+## Link do GitHub:
 https://github.com/matheus-pires-costa/tech-academy2/tree/main
 
 ## Descrição Do Site e da Persona
