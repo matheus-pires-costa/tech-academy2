@@ -5,6 +5,9 @@ Também é feito o uso de JS para a lógica do site e validação do formulário
 ## Link do site:
 https://cnestetica.infinityfreeapp.com//home
 
+##Link do GitHub:
+https://github.com/matheus-pires-costa/tech-academy2/tree/main
+
 ## Descrição Do Site e da Persona
 O comércio escolhido se trata de uma clínica de estética onde a persona são mulheres de 20 a 45 anos, conectadas e vaidosas, que buscam no celular soluções visuais e práticas para melhorar a pele e o bem-estar.
 Elas decidem a compra baseadas em provas sociais de "antes e depois" e priorizam a agilidade do agendamento direto via WhatsApp para elevar sua autoestima.
