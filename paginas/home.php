@@ -24,7 +24,7 @@
         </h2>
     </div>
     <div class="video">
-        <video src="videos/videoteste.mov" controls class="w-100">
+        <video src="videos/videosite.mp4" controls class="w-100">
             Seu navegador não suporta a tag de vídeo.
         </video>
 
