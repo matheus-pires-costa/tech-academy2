@@ -13,3 +13,7 @@ O comércio escolhido se trata de uma clínica de estética onde a persona são 
 Elas decidem a compra baseadas em provas sociais de "antes e depois" e priorizam a agilidade do agendamento direto via WhatsApp para elevar sua autoestima.
 Elas buscam se sentirem melhores com sua aparência, terem autoestima,
 Serem mais confiantes de si mesma, sejam elas pessoas que já fizeram tratamento estético antes ou não.
+<<<<<<< HEAD
+=======
+
+>>>>>>> b1a4fc50068726dfa6ca561b86cdf2160aeea7ae
