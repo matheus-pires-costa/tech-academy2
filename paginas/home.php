@@ -23,12 +23,17 @@
             Quem sou eu?
         </h2>
     </div>
-    <div class="video">
-        <video src="videos/videosite.mp4" controls class="w-100">
-            Seu navegador não suporta a tag de vídeo.
-        </video>
-
-    </div>
+	<div class="video">
+    	<div class="ratio ratio-1x1 shadow rounded">
+			<iframe 
+    			src="https://www.youtube.com/embed/qR2b-KaQNYw" 
+    			title="YouTube video player" 
+    			frameborder="0" 
+    			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    			allowfullscreen>
+			</iframe>
+    	</div>
+	</div>
 
     <div class="text-center my-4">
         <a href="sobre" class="btn btn-roxo btn-lg fw-bold" role="button" class="btn-roxo">
